@@ -1,11 +1,5 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
-
-Head over to https://vitejs.dev/ to learn more about configuring vite
+# Poetic Phrase Generator
+Creates AI-generated phrases from OpenAI's model and images from Unsplash about a favorite activity and place.
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
